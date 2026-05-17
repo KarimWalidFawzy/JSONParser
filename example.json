@@ -1,0 +1,23 @@
+{
+    "users":[
+        {
+            "id":"0",
+            "name":"Karim",
+            "posts_ids":[""],
+            "followers_ids":[""]
+        },
+        {
+            "id":"1",
+            "name":"Ali",
+            "posts_ids":[""],
+            "followers_ids":[""]            
+        }
+    ],
+    "posts":[
+        {
+        "post_id":"",
+        "post_content":"",
+        "topics":["",""]
+        }
+    ]
+}
