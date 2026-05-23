@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\XMLParser.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\XMLParser.dir/objects.a @CMakeFiles\XMLParser.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\XMLParser.dir/objects.a -Wl,--no-whole-archive -o XMLParser.exe -Wl,--out-implib,libXMLParser.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\XMLParser.dir\linkLibs.rsp
